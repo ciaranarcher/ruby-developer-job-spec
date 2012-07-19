@@ -35,6 +35,6 @@ Our IT team is looking for bright, passionate Ruby developer who is looking for 
 * Opportunity to influence, drive and build a JRuby-based betting platform.
 * A salary to attract the best, medical cover, pension, travel allowance and a central Dublin City location. 
 
-## Interested?
+## Interested??
 
 Please contact me - Ciaran - `carcher (at) fusioneer.com` with some info about yourself and we'll take it from there. 
